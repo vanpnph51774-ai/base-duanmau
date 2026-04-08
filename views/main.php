@@ -15,6 +15,7 @@
 </head>
 
 <body>
+    <!-- Navigation -->
 
     <nav class="navbar navbar-expand-xxl bg-light justify-content-center">
         <ul class="navbar-nav">
@@ -35,6 +36,7 @@
             ?>
         </div>
     </div>
+    
 
 </body>
 
